@@ -1,0 +1,11 @@
+../Src/main.c:112:13:cycle_operand	0	static
+../Src/main.c:119:12:append_digit	0	static
+../Src/main.c:41:6:get_key	24	static
+../Src/main.c:80:6:show_char	8	static
+../Src/main.c:86:6:clear_screen	8	static
+../Src/main.c:91:6:show_expression	48	static
+../Src/main.c:129:6:show_result	24	static
+../Src/main.c:203:6:SystemClock_Config	96	static
+../Src/main.c:24:6:init	8	static
+../Src/main.c:137:5:main	24	static
+../Src/main.c:245:6:Error_Handler	0	static
